@@ -1,9 +1,6 @@
 # **LatestNews** 
-#### *An autotmatice Toll System*  
-   
-</br>
+#### *An App for latest Indian News*  
 
-![Toll System](Website/static/img/2.jpg)
 
 ## Table of Contents
 - [**LatestNews**](#latestnews)
@@ -57,4 +54,4 @@ Home Screen             |  News
 5. Type ```Flutter run ``` in the terminal to run the App in emulator.
 
 
-# LatestNews
+
