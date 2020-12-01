@@ -6,7 +6,6 @@
 - [**LatestNews**](#latestnews)
      
   - [Table of Contents](#table-of-contents)
-  - []
   - [Download App](#down)
   - [About](#about)
   - [ScreenShots](#website-demo)
