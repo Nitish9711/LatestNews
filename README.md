@@ -1,10 +1,6 @@
 # **LatestNews** 
-<<<<<<< HEAD
 #### *An App to get latest Indian News*  
    
-=======
-#### *An App for latest Indian News*  
->>>>>>> 4acd1ea57531c65f8ea431e45efac08226bff954
 
 
 ## Table of Contents
