@@ -1,15 +1,12 @@
 # **LatestNews** 
-#### *An autotmatice Toll System*  
+#### *An App to get latest Indian News*  
    
-</br>
 
-![Toll System](Website/static/img/2.jpg)
 
 ## Table of Contents
 - [**LatestNews**](#latestnews)
      
   - [Table of Contents](#table-of-contents)
-  - []
   - [Download App](#down)
   - [About](#about)
   - [ScreenShots](#website-demo)
@@ -56,5 +53,4 @@ Home Screen             |  News
 4. Open Android Studio and create an Android emulator.
 5. Type ```Flutter run ``` in the terminal to run the App in emulator.
 
-
-# LatestNews
+# **LatestNews** 
